@@ -92,3 +92,8 @@ ymaps.ready()
 
     $('.phone').mask('+000-(00)-000-00-00');
 
+$('#formAnchor').click(function(){
+    $('html,body').animate({
+        scrollTop: $('#form').offset().top
+    }, 'slow');
+})
