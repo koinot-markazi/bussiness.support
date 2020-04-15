@@ -50,7 +50,7 @@ ymaps.ready()
                 iconCaption: 'поиск...'
             }, {
                 preset: 'islands#nightCircleDotIcon',
-                draggable: true
+                draggable: false
             });
         }
 
