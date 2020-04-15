@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.24338355891037,
+                    41.32840930162856 
+                ]
+            },
+            "properties": {
+                "balloonContent": "",
+                "hintContent": "Название фирмы"
+            },
+            "options": {
+                "preset": "islands#redCircleDotIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.23171058527754,
+                    41.3302208307008 
+                ]
+            },
+            "properties": {
+                "balloonContent": "",
+                "hintContent": "Название фирмы"
+            },
+            "options": {
+                "preset": "islands#redCircleDotIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.25127998225021,
+                    41.338242706537336 
+                ]
+            },
+            "properties": {
+                "balloonContent": "",
+                "hintContent": "Название фирмы"
+            },
+            "options": {
+                "preset": "islands#redCircleDotIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.22106757990646,
+                    41.312103256236576 
+                ]
+            },
+            "properties": {
+                "balloonContent": "",
+                "hintContent": "Название фирмы"
+            },
+            "options": {
+                "preset": "islands#redCircleDotIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.30861488215257,
+                    41.37161337129774 
+                ]
+            },
+            "properties": {
+                "balloonContent": "",
+                "hintContent": "Название фирмы"
+            },
+            "options": {
+                "preset": "islands#redCircleDotIcon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.14725318781662,
+                    41.30951461703947 
+                ]
+            },
+            "properties": {
+                "balloonContent": "",
+                "hintContent": "Название фирмы"
+            },
+            "options": {
+                "preset": "islands#redCircleDotIcon"
+            }
+        }
+    ]
+}
